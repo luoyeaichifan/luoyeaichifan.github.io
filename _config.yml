@@ -7,7 +7,7 @@
 
 # Site settings
 title: 吴坤亮的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: Inspiring to become a full stack engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luoyeaichifan.github.io" # the base hostname & protocol for your site
 
