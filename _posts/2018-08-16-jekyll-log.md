@@ -5,6 +5,11 @@ categories: jekyll
 tags:  jekyll learn 
 author: wkl
 ---
+
+**centos 安装jekyll**
+
+[https://blog.csdn.net/u012063703/article/details/53953943](https://blog.csdn.net/u012063703/article/details/53953943)
+
 **jekyll 源码**
 
 [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
