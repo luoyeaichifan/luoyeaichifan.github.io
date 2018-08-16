@@ -5,8 +5,12 @@ categories: jekyll
 tags:  jekyll learn 
 author: wkl
 ---
+**jekyll 源码**
 
 [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+
+**jekyll中文说明**
 
 [https://www.jekyll.com.cn/docs/usage/](https://www.jekyll.com.cn/docs/usage/)
 
