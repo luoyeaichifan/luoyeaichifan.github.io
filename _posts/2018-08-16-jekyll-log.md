@@ -6,9 +6,9 @@ tags:  jekyll learn
 author: wkl
 ---
 
-https://github.com/jekyll/jekyll
+[https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-https://www.jekyll.com.cn/docs/usage/
+[https://www.jekyll.com.cn/docs/usage/](https://www.jekyll.com.cn/docs/usage/)
 
 **在 CentOS 6 上安装 Jekyll**
 
