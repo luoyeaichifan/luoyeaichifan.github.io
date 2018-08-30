@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "go pprof trace"
+categories: go
+tags: pprof trace 
+author: wkl
+---
+
 关于火焰图与trace的使用
 
 go-torch appBin test.prof test.svg
