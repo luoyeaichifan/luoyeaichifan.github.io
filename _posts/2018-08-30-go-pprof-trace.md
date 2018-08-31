@@ -12,6 +12,9 @@ go-torch appBin test.prof test.svg
 
 go tool trace -http=x.x.x.x:8888 trace.trace
 
+go tool pprof *.prof
+
+[http://lihaoquan.me/2017/1/1/Profiling-and-Optimizing-Go-using-go-torch.html](http://lihaoquan.me/2017/1/1/Profiling-and-Optimizing-Go-using-go-torch.html)
 
     package prof
     
